@@ -14,6 +14,7 @@ public class SampleTest {
 	@Test
 	public void test2() {
 		assertEquals(10, 5*2);
+		System.out.println("Demonstration To SAPLAB on Devops");
 	}
 
 
